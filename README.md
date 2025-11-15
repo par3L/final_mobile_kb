@@ -28,9 +28,8 @@ Aplikasi ini menggunakan model berbasis Convolutional Neural Network (CNN) yang 
 final_mobile_AI/
 ├── notebook/
 │   ├── model/
-│   │   └── rupiah_classification.ipynb    # Notebook training model
-│   └── core/
-│       └── rupiah_classification_final_2_10.h5    # Model terlatih
+│       └── rupiah_classification.ipynb    # Notebook training model
+│   
 ├── Synapse/                               # Backend API (Django)
 │   ├── api/
 │   │   ├── model/
@@ -53,7 +52,6 @@ final_mobile_AI/
 │   │   │   └── history_service.dart
 │   │   └── main.dart
 │   └── pubspec.yaml
-└── model_usage.py                         # Script testing model
 ```
 
 ### Teknologi yang Digunakan
