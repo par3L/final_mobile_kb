@@ -386,8 +386,9 @@ Output: Dense(11) + Softmax
 
 **Solusi**:
 - Pastikan gambar memiliki pencahayaan yang baik
-- Uang harus berada di tengah frame
+- Uang berada di tengah frame
 - Hindari gambar blur atau terlalu jauh
+- Pastikan background gambar monoton
 
 #### 4. Conda Environment Creation Failed
 
@@ -405,14 +406,12 @@ conda env create -n rupiah-api -f environment.yml
 
 **Dataset dan Model Terlatih**:
 [Google Drive Link - Rupiah Classification App, Model & Dataset]
-(https://drive.google.com/drive/folders/your-folder-id)
+(https://drive.google.com/drive/folders/1OB5DpKZT5-0JU8oU9kbJCpyQGaUJLbyC?usp=sharing)
 
 Konten folder:
 - Built App
 - Dataset training, validation, dan test
 - Model terlatih (.h5 dan .keras format)
-- Dokumentasi training
-- Sample images untuk testing
 
 ## Kontributor
 **[Kelompok 7]**
@@ -434,4 +433,4 @@ Proyek ini dikembangkan untuk keperluan akademis dan pembelajaran.
 
 ---
 
-**Catatan**: Untuk pertanyaan atau masalah lebih lanjut, silakan hubungi tim pengembang atau buat issue di repository GitHub.
+**Catatan**: Untuk pertanyaan atau masalah lebih lanjut, langsung saja buat issue di repository GitHub.
