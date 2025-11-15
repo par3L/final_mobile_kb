@@ -1,0 +1,12 @@
+data/
+checkpoints/
+logs/
+my_venv/
+example_usage.py
+model_usage.py
+quick_test.py
+test_koin.png
+test_kertas.jpg
+3_10/
+modelEnv/
+core/
